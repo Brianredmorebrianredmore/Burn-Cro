@@ -2,7 +2,7 @@
 Burn Cro is a deflationary token on the Cronos Network.
 Maximum supply 100,000,000,000.
 We Burn Cronos and Burn Cro on the 1st of every month.
-Trades come with 10% fee.
+Trades come with 9% fee.
 -5% used to Burn cronos.
 -2% added to liquidity.
 -2% is a yield distributed between holders respective of total holdings.
